@@ -1,4 +1,4 @@
-require_relative "library"
+require_relative "dad"
 
-library = Library.new
-library.run
+dad = Dad.new
+dad.run

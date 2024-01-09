@@ -1,5 +1,11 @@
-# Library CLI
-A command line interface app to simulate a library
+# My CLI App
+
+This is a simple Ruby on Rails command-line interface (CLI) application.
 
 ## Usage
-Run `ruby app.rb` in the terminal
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your_username/my_cli_app.git
+   cd my_cli_app
